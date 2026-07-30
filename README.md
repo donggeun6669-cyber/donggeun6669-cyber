@@ -9,7 +9,7 @@ AI 에이전트로 실제 쓰이는 제품을 만듭니다.
 
 **[검고담임 (ReBridge)](https://github.com/donggeun6669-cyber/ReBridge)** — 학교 밖 청소년 진학·교육 정보 서비스
 대학 351개·전형 1,007건 데이터 구축, 3인 팀 팀장, 공모전 대상 2회.
-`React` `Vite` `Vercel` — [라이브 데모](https://rebridge-rho.vercel.app)
+`React` `Vite` `Vercel` — [라이브 데모](https://gumgomentor.vercel.app)
 
 **교재 자동 제작 AI** — 수능 영어 교재 제작 자동화
 15문제 제작 75분 → 20분(약 73% 단축). 영어학원 실무에 도입되어 현재도 교재 제작에 쓰이고 있습니다.
