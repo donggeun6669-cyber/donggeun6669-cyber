@@ -23,6 +23,10 @@ AI 에이전트로 실제 쓰이는 제품을 만듭니다.
 성균관대 HUSS 「AI 융합 커뮤니티」 2gether 팀 프로토타입. 15개 언어, 글 · 채팅 자동 번역.
 `React` `Vite` `Vercel` — [데모](https://eoullim-skku.vercel.app)
 
+**vmd-uni** — 패션 매장마다 진열(VMD) 가이드를 맞춰 주는 웹앱 · OBA.RUN 2nd 해커톤 F&F 스폰서 트랙
+3인 팀에서 프론트엔드 구축 · 발표 자료 제작. 하루 안에 질의 게시판 · 컨셉 가이드 · 디피 관리 · 재고 화면 구현, **상위 6팀 최종 피칭 진출**.
+`React` `TypeScript` `Vite` — [데모](https://vmd-uni.toji.homes) · 팀 저장소는 비공개
+
 #### 영어교육 AI 앱 (성균관대 「인공지능과 영어교육」 과제)
 
 Google AI Studio로 만들고 Vercel에 배포한 학습 앱입니다. 설치 없이 바로 써 볼 수 있습니다.
